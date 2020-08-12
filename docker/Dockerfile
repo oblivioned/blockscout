@@ -25,6 +25,8 @@ RUN if [ "$COIN" != "" ]; then sed -i s/"POA"/"${COIN}"/g apps/block_scout_web/p
 # Run forderground build and phoenix digest
 RUN mix compile
 
+RUN npm install --save core-js@2
+
 # Add blockscout npm deps
 RUN cd apps/block_scout_web/assets/ && \
     npm install && \

@@ -109,7 +109,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:85
 msgid "APIs"
-msgstr ""
+msgstr "API"
 
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:75
@@ -247,7 +247,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_footer.html.eex:17
 msgid "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks."
-msgstr ""
+msgstr "Explorer is a tool for inspecting and analyzing DT based blockchains Blockchain explorer for Boundary Networks."
 
 #, elixir-format
 #: lib/block_scout_web/templates/address_token/index.html.eex:28
@@ -524,7 +524,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/views/internal_transaction_view.ex:23
 msgid "Delegate Call"
-msgstr ""
+msgstr "Call"
 
 #, elixir-format
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:53
@@ -554,29 +554,29 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/views/transaction_view.ex:137
 msgid "ERC-20 "
-msgstr ""
+msgstr "DRC-20 "
 
 #, elixir-format
 #: lib/block_scout_web/views/transaction_view.ex:138
 msgid "ERC-721 "
-msgstr ""
+msgstr "DRC-721"
 
 #, elixir-format
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:43
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:78
 msgid "ETH"
-msgstr ""
+msgstr "DTT"
 
 #, elixir-format
 #: lib/block_scout_web/templates/api_docs/eth_rpc.html.eex:4
 msgid "ETH RPC API Documentation"
-msgstr ""
+msgstr "DT RPC API Documentation"
 
 #, elixir-format
 #: lib/block_scout_web/templates/address_contract/index.html.eex:45
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:73
 msgid "EVM Version"
-msgstr ""
+msgstr "DVM Version"
 
 #, elixir-format
 #: lib/block_scout_web/views/block_transaction_view.ex:7
@@ -623,7 +623,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/views/transaction_view.ex:253
 msgid "Error: (Awaiting internal transactions for reason)"
-msgstr ""
+msgstr "Revert"
 
 #, elixir-format
 #: lib/block_scout_web/templates/address/overview.html.eex:109
@@ -633,7 +633,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:99
 msgid "Eth RPC"
-msgstr ""
+msgstr "JsonRPC 2.0"
 
 #, elixir-format
 #: lib/block_scout_web/templates/address/_balance_card.html.eex:15
@@ -645,7 +645,7 @@ msgstr ""
 #: lib/block_scout_web/templates/transaction/overview.html.eex:263
 #: lib/block_scout_web/views/wei_helpers.ex:78
 msgid "Ether"
-msgstr ""
+msgstr "DT"
 
 #, elixir-format
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:211
@@ -1187,7 +1187,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:94
 msgid "RPC"
-msgstr ""
+msgstr "Module HTTP"
 
 #, elixir-format
 #: lib/block_scout_web/templates/transaction/overview.html.eex:117
@@ -1334,7 +1334,7 @@ msgstr ""
 #, elixir-format
 #: lib/block_scout_web/views/internal_transaction_view.ex:24
 msgid "Static Call"
-msgstr ""
+msgstr "Call"
 
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_footer.html.eex:34
